@@ -1,0 +1,19 @@
+export PATH=/home/szymon/.config/composer/vendor/bin/:/home/szymon/usrRoot/usr/local/bin:$PATH:~/usrRoot/usr/bin/:/opt/mssql-tools/bin:/home/szymon/usrRoot/usr/bin/flutter/bin:/home/szymon/usrRoot/usr/bin/android-studio/gradle/gradle-4.10.1/bin:/home/szymon/usrRoot/usr/bin/smartgit/bin
+
+
+export NODE_PATH=/home/szymon/usrRoot/usr/local/lib/node_modules/
+
+export ZADDR='zc9mBjcxhdvvGGEd88pS9ZpjJ1245FasTMEVwCZbUrCBBQrABq6PfQ1nUz8EyU5FbQCBwPPnrPeRJsFeUHA1KsfHKaSEGzs'
+
+export blog=/var/www/html/mexico/blog/
+export frontEnd=/home/szymon/Dokumenty/code@/frelancer/frontendUINet/proj/
+export game2=/home/szymon/Dokumenty/code@/js/cordova/
+#export PATH=$PATH:~/nodeLocal/bin
+#export NODE_PATH=~/nodeLocal/lib/node_modules/
+
+#export NVM_DIR="$HOME/.nvm"
+#[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+#[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
+
+#export LS_COLORS=$LS_COLORS:'di=1;33:' ; export LS_COLORS
+export LS_COLORS=$LS_COLORS ; export LS_COLORS
