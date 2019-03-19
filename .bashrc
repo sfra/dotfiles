@@ -131,6 +131,10 @@ if [ -f ~/.bash_prompt ]; then
 fi
 
 
+if [ -f ~/git-completion.bash ]; then
+    . ~/git-completion.bash
+fi
+
 
 
 export NVM_DIR="$HOME/.nvm"
